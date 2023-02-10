@@ -1,0 +1,16 @@
+p {
+    background-color:#F77A5F;
+    font-family: "Veranda", "DejaVu Sans", sans-serif;
+}
+#num-2 {
+    color:#2292DD;
+    font-size: 36px;
+}
+.num {
+    font-size: 24px;
+}
+#num-4 {
+    background-color:#2BFD22;
+    font-size: 24px;
+    font-weight: bold;
+}
